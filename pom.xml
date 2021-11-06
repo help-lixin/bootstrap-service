@@ -7,7 +7,7 @@
     <artifactId>bootstrap-service</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
-    <name>route-service ${project.version}</name>
+    <name>bootstrap-service ${project.version}</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
